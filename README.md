@@ -1,0 +1,1 @@
+# Data-for-retention-CV Подсчет Retention Rate при помощи Tableau, предварительно обработав данные в Jupiter Notebook. Ссылка на конечный файл: https://public.tableau.com/app/profile/musa7235/viz/Retentionrate_16757641796580/Sheet12
